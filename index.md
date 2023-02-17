@@ -129,24 +129,33 @@ Teresa
 **LIFESTYLE**
 
 Personality
+
 Financial
+
 Sleep
+
 Travel
+
 Media
 
 **FASHION**
 
 Clothing
+
 Tribes
+
 Repair
+
 Thrifting
 
 **NECRO-ANTHROPOLOGY**
 
 Suicide
-Self-Harm
-Obsessions
-Vices
-Eating Disorders
 
-**ART**
+Self-Harm
+
+Obsessions
+
+Vices
+
+Eating Disorders
