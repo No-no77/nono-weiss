@@ -398,7 +398,7 @@ sidebar-card a:hover{
     display: grid;
     grid-template-columns: auto;
     border: 1px $color-item-border; 
-    box-shadow: 1px 1px 0px $color-box-shadow;
+    box-shadow: 1px 1px 1px 1px $color-box-shadow;
     background-color: $color-inner-divs;
     margin-bottom: 0.5em;
     max-width: 100%;
