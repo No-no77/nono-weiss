@@ -144,5 +144,9 @@ Thrifting
 **NECRO-ANTHROPOLOGY**
 
 Suicide
+Self-Harm
+Obsessions
+Vices
+Eating Disorders
 
 **ART**
