@@ -38,7 +38,7 @@ foam_template:
   - Aesthetics
   - Subcultures
   - How to save J-pop
-- Non-fungible Iodls
+- Non-fungible Idols
   
 **WRITING**
 - Romances
