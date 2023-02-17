@@ -1,7 +1,7 @@
 ---
 published: true
-subtitle: The History of OGL
-topic: Text-based TTRPG games
+subtitle: Text-based TTRPG games
+topic: 
 date: 2023-02-16
 tags: TTRPG Software
 foam_template:
