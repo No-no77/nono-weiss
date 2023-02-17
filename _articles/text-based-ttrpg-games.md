@@ -1,6 +1,6 @@
 ---
 published: true
-subtitle: Text-based TTRPG games
+subtitle:
 topic: 
 date: 2023-02-16
 tags: TTRPG Software
@@ -9,4 +9,4 @@ foam_template:
   name: Article
 ---
 
-# 
+# Text-based TTRPG games
