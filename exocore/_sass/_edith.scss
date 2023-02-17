@@ -4,42 +4,42 @@
 
 /* --- Body Colors --- */
 
-$background: #000000;
+$background: #eee8d5	;
 $color-inner-divs: black;
 $color-items: black;
 
 
 /* --- Text Colors --- */
-$color-text: white;
-$color-subtext: white;
-$color-code: pink;
-$internal-links: orange;
-$external-links: chocolate;
+$color-text: #586e75;
+$color-subtext: #586e75;
+$color-code: #d33682;
+$internal-links: #6c71c4;
+$external-links: #2aa198;
 $invalid-links: $internal-links;
-$color-primary: orange;
-$color-secondary: blue;
-$color-box-shadow: none;
+$color-primary: #b58900;
+$color-secondary: #cb4b16;
+$color-box-shadow: #859900;
 
 
 /* --- Borders --- */
-$article-border: 1px solid white;
-$sidebar-border: 1px solid white;
+$article-border: 1px solid #002b36	;
+$sidebar-border: 1px solid #002b36	;
 $prev-next-border: none;
 $color-item-border: none;
 $border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
-$embed-border: thin solid orange;
-$color-embed-background: black;
-$color-embed-title: orange;
-$color-embed-text: white;
+$embed-border: thin solid #b58900;
+$color-embed-background: #002b36;
+$color-embed-title: #2aa198;
+$color-embed-text: #93a1a1;
 
-$footnote-border: thin solid orange;
-$color-footnote-background: black;
-$color-footnote-text: white;
+$footnote-border: thin solid #b58900;
+$color-footnote-background: #002b36;
+$color-footnote-text: #93a1a1;
 
 $sidenote-border: thin solid $color-primary;
-$color-sidenote-background: black;
+$color-sidenote-background: #002b36;
 $color-sidenote-text: $color-text;
 
 
