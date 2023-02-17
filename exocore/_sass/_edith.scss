@@ -5,8 +5,8 @@
 /* --- Body Colors --- */
 
 $background: #eee8d5	;
-$color-inner-divs: black;
-$color-items: black;
+$color-inner-divs: #eee8d5;
+$color-items: #eee8d5;
 
 
 /* --- Text Colors --- */
@@ -370,7 +370,7 @@ sidebar-card a:hover{
 }
 
 .profile-pic {
-    width: 55px;
+    width: 100px;
     margin-bottom: 0.5em;
     
     @media (max-width: 900px)
