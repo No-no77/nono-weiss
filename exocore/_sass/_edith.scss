@@ -30,16 +30,16 @@ $border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
 $embed-border: thin solid #b58900;
-$color-embed-background: #002b36;
+$color-embed-background: #eee8d5;
 $color-embed-title: #2aa198;
-$color-embed-text: #93a1a1;
+$color-embed-text: #586e75;
 
 $footnote-border: thin solid #b58900;
-$color-footnote-background: #002b36;
-$color-footnote-text: #93a1a1;
+$color-footnote-background: #eee8d5;
+$color-footnote-text: #586e75;
 
 $sidenote-border: thin solid $color-primary;
-$color-sidenote-background: #002b36;
+$color-sidenote-background: #eee8d5;
 $color-sidenote-text: $color-text;
 
 
@@ -370,7 +370,6 @@ sidebar-card a:hover{
 }
 
 .profile-pic {
-    border-radius: 50%;
     width: 55px;
     margin-bottom: 0.5em;
     
