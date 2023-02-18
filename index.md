@@ -107,8 +107,8 @@ Neopentecostalism
 **RECIPES**
 
 Ana
-  - AOA Chanmi Low Caloric Gimbap
-    - https://www.youtube.com/watch?v=4HsEchIvIJI
+  - Chicken Breast Sandwich (C:\Users\Linus Chongzhen\Documents\GitHub\nono-weiss\_journal\2023-02-breast-chicken-sandwich.md)
+  - Gimbap
   - Chicken Noodle Soup
   - Banana Pancakes
 
