@@ -2,7 +2,7 @@
 published: true
 subtitle:
 date: 2023-02-17
-tags:
+tags: Recipes
 foam_template:
   filepath: '_journal/2023-02-breast-chicken-sandwich.md'
   name: Journal Entry
