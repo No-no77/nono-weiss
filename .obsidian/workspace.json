@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e610879fdbc0c19d",
+        "id": "62c0e9cb0fe9e1ea",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0ed4bafab630c3",
+            "id": "c85ab03da5f32eb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_journal/spiritism.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_journal/spiritism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_journal/spiritism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_journal/spiritism.md"
+              }
             }
           },
           {
@@ -148,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "c85ab03da5f32eb2",
   "lastOpenFiles": [
-    "_journal/The Path of the Falun Dafa.md",
+    "ring.md",
+    "readme.md",
     "_journal/Spiritism.md",
+    "_journal/The Path of the Falun Dafa.md",
     "_journal/Banana Pancakes.md",
     "_journal/Vegan Sushi.md",
     "_journal/Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md",
     "_journal/J-Pop Unique Merch.md",
     "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
-    "_journal/Chicken Breast Sandwich.md",
-    "_journal/Chicken Noodle Soup.md",
-    "_daily/2023-02-19.md"
+    "_journal/Chicken Breast Sandwich.md"
   ]
 }

@@ -70,7 +70,7 @@ ERAS
 
 CURATION
 
-**SPIRITUALISM**
+**SPIRITUALITY**
 
 [SPIRITISM](_journal/spiritism.md)
 
