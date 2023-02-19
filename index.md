@@ -72,7 +72,8 @@ CURATION
 
 **SPIRITUALISM**
 
-[SPIRITISM](_journal/spiritism.md)
+[SPIRITISM](__journal/spiritism.md)
+
 [THE PATH OF THE FALUN GONG](_journal/the-path-of-the-falun-dafa.md)
 
 HERMETICISM
@@ -92,7 +93,7 @@ ANA
   - [BANANA PANCAKES](_journal/banana-pancakes.md)
 
 VEGAN
-  - [VEGAN SUSHI](__journal/vegan-sushi.md)
+  - [VEGAN SUSHI](_journal/vegan-sushi.md)
 
 **PARENTHOOD**
 
