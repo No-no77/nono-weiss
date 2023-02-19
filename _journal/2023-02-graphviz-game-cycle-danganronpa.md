@@ -2,7 +2,7 @@
 published: draft
 subtitle:
 date: 2023-02-19
-tags:
+tags: TTRPG
 foam_template:
   filepath: '_journal/2023-02-graphviz-game-cycle-danganronpa.md'
   name: Journal Entry
