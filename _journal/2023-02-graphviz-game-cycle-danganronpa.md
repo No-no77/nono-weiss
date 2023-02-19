@@ -10,7 +10,7 @@ foam_template:
 
 # Prototype of a Game Cycle for a Danganronpa-themed TTRP
 
-{% graphviz G %}
+{% graphviz Test %}
 digraph trial {
     rankdir=TB;
     node [shape=rectangle]
@@ -64,15 +64,11 @@ digraph trial {
     a6 [label="Annnouncement"]
     a7 [label="Inciting Despair"]
     
-    a0 -> a3
-    a2 -> a4
-    a2 -> a5
-    a2 -> a6
-    a2 -> a7
-    
-    m0 [label="if a murder occurs", style=filled, fillcolor=red, fontcolor=white]
-    
-    cluster_daytime -> m0
+    a0 -> a3;
+    a2 -> a4;
+    a2 -> a5;
+    a2 -> a6;
+    a2 -> a7;
     
      // Investigation block
     subgraph cluster_inv {
@@ -136,6 +132,7 @@ digraph trial {
     r2 -> c3
     c3 -> c4
 }
+
 {% endgraphviz %}
 
 
