@@ -107,7 +107,7 @@ Neopentecostalism
 **RECIPES**
 
 Ana
-  - [Chicken Breast Sandwich](https://nono-weiss.netlify.app/journal/2023-02-breast-chicken-sandwich)
+  - [Chicken Breast Sandwich](_journal\2023-02-breast-chicken-sandwich.md)
   - Gimbap
   - Chicken Noodle Soup
   - Banana Pancakes
