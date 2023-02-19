@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# Prototype of a Game Cycle for a Danganronpa-themed TTRP
+# Prototype of a Game Cycle for a Danganronpa-themed TTRPG
 
 {% graphviz Test %}
 digraph trial {
