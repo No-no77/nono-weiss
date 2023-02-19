@@ -19,12 +19,15 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2023-02-19.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +149,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3aa1ea3782e80e19",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_daily/2023-02-19.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
@@ -156,7 +171,6 @@
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
     "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "_daily/2022-10-23.md"
   ]
 }
