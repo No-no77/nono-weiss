@@ -5,157 +5,154 @@ title: Home
 
 # Table of Contents
 
+
 **TTRPG**
 
 D&D
   - OD&D 
   - AD&D
-  - Dungeon-centric Games
+  - DUNGEON-CENTRIC GAMES
 
-Delta Green
-  - The Chud Files Scenario
+DELTA GREEN
+  - THE CHUD FILES SCENARIO
 
-Design
+DESIGN
   - D20
-  - Fate
+  - FATE
   - GUMSHOE
-  - Call of Cthulhu
-  - Deadly Revelations
+  - CALL OF CTHULHU
 
-Text-based Campaigns
-  - Forums
-  - Firecast
+TEXT-BASED CAMPAIGNS
+  - FORUMS
+  - FIRECAST
 
-Copyright
+COPYRIGHT
   - OGL
-  - Piracy
+  - PIRACY
 
-Playing
-- Character Design
-- Finding a Group
+PLAYING
+- CHARACTER DESIGN
+- FINDING A GROUP
 
-GMing
-- Studying the System
-- Planning a Campaign
+GMING
+- STUDYING THE SYSTEM
+- PLANNING A CAMPAIGN
   
 **IDOL STUDIES**
 
-Parasociality
-  - Economy of Presence
+PARASOCIALITY
+  - ECONOMY OF PRESENCE
 
-Idol is Dead
-  - Harmful Industry Practices
+IDOL IS DEAD
+  - HARMFUL INDUSTRY PRACTICES
 
-Wota Autism
-  - Information
-
-J-pop
-  - Aesthetics
-  - Subcultures
-  - Gatekeeping, or How to save J-pop
-  - Axioms of the Wota
-
-Case Studies
-- AOA
-- AKB48
-- Sulli
-- Keyakizaka46
+J-POP
+  - AESTHETICS
+  - SUBCULTURES
+  - GATEKEEPING, OR HOW TO SAVE J-POP
+  - AXIOMS OF THE WOTA
+  - [COMPREHENSIVE TIMELINE OF NOGIZAKA46 MEGURI SALES](_journal/Comprehensive%20Timeline%20of%20Nogizaka46%20Meguri%20Sales.md)S
   
 **WRITING**
 
-- Romances
-- Horror
-- Pulp
+- ROMANCES
+- HORROR
+- PULP
 
   
 **CINEMA**
 
-Auteurism
+AUTEURISM
 
-Eras
-- Hong Kong CAT-III
+ERAS
+- HONG KONG CAT-III
 
-Curation
+CURATION
 
 **SPIRITUALISM**
 
-French Spiritism
-  - The Spirits' Book
-  - The Mediums' Book
-  - Christian Spiritism
-  - Cao Đài
-  - Chico Xavier
-  - Psychic Abilities
-  - Generational Curses
+FRENCH SPIRITISM
+  - THE SPIRITS' BOOK
+  - THE MEDIUMS' BOOK
+  - CHRISTIAN SPIRITISM
+  - CAO ĐÀI
+  - CHICO XAVIER
+  - PSYCHIC ABILITIES
+  - GENERATIONAL CURSES
 
-Falun Gong
-  - Zhēn-Shàn-Rěn
-  -  Qigong
-  -  Taiji
-  -  Hetu
-  -  Luoshu
-  -  Book of Mutations
+FALUN GONG
+  - ZHĒN-SHÀN-RĚN
+  -  QIGONG
+  -  TAIJI
+  -  HETU
+  -  LUOSHU
+  -  BOOK OF MUTATIONS
 
-Hermeticism
+HERMETICISM
 
-Catholicism
+CATHOLICISM
 
-Puritanism
+PURITANISM
 
-Neopentecostalism
+NEOPENTECOSTALISM
 
 **RECIPES**
 
-Ana
-  - [Chicken Breast Sandwich](_journal\2023-02-breast-chicken-sandwich.md)
-  - Gimbap
-  - Chicken Noodle Soup
-  - Banana Pancakes
+ANA
+  - [CHICKEN BREAST SANDWICH](_journal/Chicken%20Breast%20Sandwich.md)
+  - GIMBAP
+  - [CHICKEN NOODLE SOUP](_journal/Chicken%20Noodle%20Soup.md)
+  - BANANA PANCAKES
 
-Vegan
-  - Vegan Sushi 
+VEGAN
+  - [VEGAN SUSHI](_journal/Vegan%20Sushi.md)
 
 **PARENTHOOD**
 
-Teresa
-  - Books for Teresa
-  - Films for Teresa
-  - Music for Teresa
-  - Character for Teresa
-  - Values for Teresa
-  - Spirituality for Teresa
-  - Philosophy for Teresa
+TERESA
+  - BOOKS FOR TERESA
+  - FILMS FOR TERESA
+  - MUSIC FOR TERESA
+  - CHARACTER FOR TERESA
+  - VALUES FOR TERESA
+  - SPIRITUALITY FOR TERESA
+  - PHILOSOPHY FOR TERESA
 
 **LIFESTYLE**
 
-Personality
+PERSONALITY
 
-Financial
+FINANCIAL
 
-Sleep
+SLEEP
 
-Travel
+TRAVEL
 
-Media
+MEDIA
 
 **FASHION**
 
-Clothing
+CLOTHING
 
-Tribes
+TRIBES
 
-Repair
+REPAIR
 
-Thrifting
+THRIFTING
 
 **NECRO-ANTHROPOLOGY**
 
-Suicide
+SUICIDE
 
-Self-Harm
+SELF-HARM
 
-Obsessions
+OBSESSIONS
 
-Vices
+VICES
 
-Eating Disorders
+EATING DISORDERS
+
+**EGOPOSTING**
+
+PERSONALITY, POLITICAL AND INTELLECTUAL TESTS
+

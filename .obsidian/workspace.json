@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
+                "file": "_journal/Vegan Sushi.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
+                "file": "_journal/Vegan Sushi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
+                "file": "_journal/Vegan Sushi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md"
+                "file": "_journal/Vegan Sushi.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb0ed4bafab630c3",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "_daily/2023-02-19.md",
-    "readme.md",
-    "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
-    "ring.md",
-    "_journal/Chicken Breast Sandwich.md",
+    "J-Pop Unique Merch.md",
+    "_journal/Untitled.md",
+    "_journal/Banana Pancakes.md",
     "_journal/Chicken Noodle Soup.md",
     "_journal/Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md",
-    "_scrapbook/Danganronpa Themed TTRPG Game.md",
-    "_journal/Untitled.md",
-    "_daily/2022-10-29.md"
+    "_journal/Vegan Sushi.md",
+    "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
+    "_journal/Chicken Breast Sandwich.md",
+    "ring.md",
+    "readme.md"
   ]
 }
