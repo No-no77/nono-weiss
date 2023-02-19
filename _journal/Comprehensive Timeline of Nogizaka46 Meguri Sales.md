@@ -2,7 +2,7 @@
 published: true
 subtitle: 
 date: 2023-02-19
-tags: 
+tags: Jpop
 ---
 
 #  Comprehensive Timeline of Nogizaka46 Meguri Sales
