@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Chicken Noodle Soup.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Chicken Noodle Soup.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Chicken Noodle Soup.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Chicken Noodle Soup.md"
+                "file": "readme.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "fb0ed4bafab630c3",
   "lastOpenFiles": [
+    "Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
+    "readme.md",
+    "ring.md",
     "_journal/Chicken Breast Sandwich.md",
-    "_journal/Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md",
     "_journal/Chicken Noodle Soup.md",
+    "_journal/Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md",
     "_scrapbook/Danganronpa Themed TTRPG Game.md",
     "_journal/Untitled.md",
     "_daily/2023-02-19.md",
-    "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md"
+    "_daily/2022-10-29.md"
   ]
 }

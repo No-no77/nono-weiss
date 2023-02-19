@@ -42,3 +42,7 @@ For each
 3. Add condiments. My personal recommendations are spicy condiments such as *Peperoncino*.
 4. Close the sandwich.
 5. Eat it fresh. If saving it for later is a necessity make sure to storage it in a cold place such as a refrigerator or a cooler bag.
+
+## Calories
+
+To Be Counted
