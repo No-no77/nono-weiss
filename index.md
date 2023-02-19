@@ -72,7 +72,7 @@ CURATION
 
 **SPIRITUALISM**
 
-[SPIRITISM](__journal/spiritism.md)
+[SPIRITISM](_journal/spiritism.md)
 
 [THE PATH OF THE FALUN GONG](_journal/the-path-of-the-falun-dafa.md)
 
