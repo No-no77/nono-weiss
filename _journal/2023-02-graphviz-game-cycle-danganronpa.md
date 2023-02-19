@@ -20,6 +20,7 @@ digraph trial {
         label="Daily Life Block";
         style=filled;
         node [style=rounded];
+        bgcolor= "grey";
         d0 [label="Early Morning [2A]", style=filled, fillcolor=white];
         d1 [label="Breakfast [3A]", style=filled, fillcolor=white];
         d2 [label="Morning [4A]", style=filled, fillcolor=white];
@@ -55,14 +56,14 @@ digraph trial {
     a1 -> a2;
     a2 -> n4;
     
-    a0 [label="A = Action"]
-    a1 [label="Given n ammount of days have passed"]
-    a2 [label="Start an Event"]
-    a3 [label="An action block \nmight take 1 to 2 hours\n to be completed"]
-    a4 [label="Physical Challenge"]
-    a5 [label="Puzzle"]
-    a6 [label="Annnouncement"]
-    a7 [label="Inciting Despair"]
+    a0 [label="A = Action", style=filled, fillcolor=white]
+    a1 [label="Given n ammount of days have passed", style=filled, fillcolor=white]
+    a2 [label="Start an Event", style=filled, fillcolor=white]
+    a3 [label="An action block \nmight take 1 to 2 hours\n to be completed", style=filled, fillcolor=white]
+    a4 [label="Physical Challenge", style=filled, fillcolor=white]
+    a5 [label="Puzzle", style=filled, fillcolor=white]
+    a6 [label="Annnouncement", style=filled, fillcolor=white]
+    a7 [label="Inciting Despair", style=filled, fillcolor=white]
     
     a0 -> a3;
     a2 -> a4;
@@ -74,6 +75,7 @@ digraph trial {
     subgraph cluster_inv {
         label="Investigation Block";
         style=filled;
+        bgcolor= "grey";
         e0 [label="3 or more people find a body", style=filled, fillcolor=white]
         e1 [label="Gather evidence and information", style=filled, fillcolor=white];
         e2 [label="Talk to witnesses and suspects", style=filled, fillcolor=white];
@@ -83,12 +85,13 @@ digraph trial {
     // Trial block
     subgraph cluster_trial {
         label="Trial Block";
-        t0 [label="Opening Statements"];
-        t1 [label="Witness Testimonies"];
-        t2 [label="Cross-Examination"];
-        t3 [label="Closing Arguments"];
-        t4 [label="Verdict Deliberation"];
-        t5 [label="Verdict Announcement"];
+        bgcolor= "grey";
+        t0 [label="Opening Statements", style=filled, fillcolor=white];
+        t1 [label="Witness Testimonies", style=filled, fillcolor=white];
+        t2 [label="Cross-Examination", style=filled, fillcolor=white];
+        t3 [label="Closing Arguments", style=filled, fillcolor=white];
+        t4 [label="Verdict Deliberation", style=filled, fillcolor=white];
+        t5 [label="Verdict Announcement", style=filled, fillcolor=white];
     }
 
     // Events leading up to the trial
@@ -115,14 +118,14 @@ digraph trial {
     verdict -> r1
     verdict -> r2
     
-    r1 [label="Wrong"]
-    r2 [label="Right"]
+    r1 [label="Wrong", style=filled, fillcolor=white]
+    r2 [label="Right", style=filled, fillcolor=white]
     
-    c1 [label="Assassin survives"]
-    c2 [label="Everyone is Executed"]
-    c3 [label="Assassin is Executed"]
-    c4 [label="Game continues."]
-    c5 [label="Game ends."]
+    c1 [label="Assassin survives", style=filled, fillcolor=white]
+    c2 [label="Everyone is Executed", style=filled, fillcolor=white]
+    c3 [label="Assassin is Executed", style=filled, fillcolor=white]
+    c4 [label="Game continues.", style=filled, fillcolor=white]
+    c5 [label="Game ends.", style=filled, fillcolor=white]
     
     r1 -> c1
     r1 -> c2
