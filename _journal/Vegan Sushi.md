@@ -7,7 +7,6 @@ tags: Recipes
 
 #  Vegan Sushi
 
-
 ## Ingredients
 
 - 1 Cucumber

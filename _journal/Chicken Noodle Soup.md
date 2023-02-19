@@ -7,8 +7,6 @@ tags: Recipes
 
 #  Chicken Noodle Soup
 
-
-
 ## Ingredients
 
 - 8 pieces of spaghetti broken in 1/2 

@@ -51,7 +51,8 @@ J-POP
   - SUBCULTURES
   - GATEKEEPING, OR HOW TO SAVE J-POP
   - AXIOMS OF THE WOTA
-  - [COMPREHENSIVE TIMELINE OF NOGIZAKA46 MEGURI SALES](_journal/Comprehensive%20Timeline%20of%20Nogizaka46%20Meguri%20Sales.md)S
+  - [J-POP UNIQUE MERCH](_journal/J-Pop%20Unique%20Merch.md)
+  - [COMPREHENSIVE TIMELINE OF NOGIZAKA46 MEGURI SALES](_journal/Comprehensive%20Timeline%20of%20Nogizaka46%20Meguri%20Sales.md)
   
 **WRITING**
 
@@ -71,22 +72,8 @@ CURATION
 
 **SPIRITUALISM**
 
-FRENCH SPIRITISM
-  - THE SPIRITS' BOOK
-  - THE MEDIUMS' BOOK
-  - CHRISTIAN SPIRITISM
-  - CAO ĐÀI
-  - CHICO XAVIER
-  - PSYCHIC ABILITIES
-  - GENERATIONAL CURSES
-
-FALUN GONG
-  - ZHĒN-SHÀN-RĚN
-  -  QIGONG
-  -  TAIJI
-  -  HETU
-  -  LUOSHU
-  -  BOOK OF MUTATIONS
+[SPIRITISM](_journal/Spiritism.md)
+[THE PATH OF THE FALUN GONG](_journal/The%20Path%20of%20the%20Falun%20Dafa.md)
 
 HERMETICISM
 
@@ -102,7 +89,7 @@ ANA
   - [CHICKEN BREAST SANDWICH](_journal/Chicken%20Breast%20Sandwich.md)
   - GIMBAP
   - [CHICKEN NOODLE SOUP](_journal/Chicken%20Noodle%20Soup.md)
-  - BANANA PANCAKES
+  - [BANANA PANCAKES](_journal/Banana%20Pancakes.md)
 
 VEGAN
   - [VEGAN SUSHI](_journal/Vegan%20Sushi.md)

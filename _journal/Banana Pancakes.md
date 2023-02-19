@@ -7,7 +7,6 @@ tags: Recipes
 
 #  Banana Pancakes
 
-
 ## Ingredients
 
 - 125g of Rolled Oats
