@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# Prototype of a Game Cycle for a Danganronpa-themed TTRPG
+# 2023-02 Prototype of a Game Cycle for a Danganronpa-themed TTRPG
 
 {% graphviz G %}
 digraph trial {

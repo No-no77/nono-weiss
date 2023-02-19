@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# Chicken Breast Sandwich
+# 2023-02 Chicken Breast Sandwich
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ For each
 
 ## Preparation
 
-1.  For each sandwich, carefully remove three large lettuce leaves from the stem to use as your wrap. This will provide a sturdy base for your fillings and add an extra dose of nutrients to your meal. 
+1. For each sandwich, carefully remove three large lettuce leaves from the stem to use as your wrap. This will provide a sturdy base for your fillings and add an extra dose of nutrients to your meal. 
 2. Separate and inspect the leaves and discard any that are torn or bruised. Then, rinse the chosen leaves thoroughly in running water, being sure to submerge them for at least three minutes in cool water and white vinegar. Finally, rinse the leaves once again with fresh running water.
 
     It's also important to remember to start with clean hands, especially if you're cooking for others. Wash your hands well with cold water before handling any food to avoid accidentally compromising the principle of nonviolence. Taking these steps will not only ensure that your greens are clean and safe to eat, but also promote a healthy and hygienic kitchen environment.

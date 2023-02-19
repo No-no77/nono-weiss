@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_scrapbook/Danganronpa Themed TTRPG Game.md",
+                "file": "_journal/2023-02 Chicken Noodle Soup.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_scrapbook/Danganronpa Themed TTRPG Game.md",
+                "file": "_journal/2023-02 Chicken Noodle Soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_scrapbook/Danganronpa Themed TTRPG Game.md",
+                "file": "_journal/2023-02 Chicken Noodle Soup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_scrapbook/Danganronpa Themed TTRPG Game.md"
+                "file": "_journal/2023-02 Chicken Noodle Soup.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "fb0ed4bafab630c3",
   "lastOpenFiles": [
+    "_journal/2023-02 Chicken Breast Sandwich.md",
+    "_journal/2023-02 Chicken Noodle Soup.md",
+    "_journal/2023-02 Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md",
     "_scrapbook/Danganronpa Themed TTRPG Game.md",
+    "_journal/Untitled.md",
     "_daily/2023-02-19.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
-    "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md"
+    "_daily/2022-10-25.md"
   ]
 }

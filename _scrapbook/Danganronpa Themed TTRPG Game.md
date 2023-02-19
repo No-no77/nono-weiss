@@ -367,3 +367,7 @@ You’re good at noticing other people trying to be unobtrusive, just as you’r
 [^2]: Stalking takes an action during a block of time, therefore you will not be able to stalk more than a character during it. Still, you will be able to interchangeably choose the character you will be stalking from the list of characters you have chosen to stalk. You can also freely change the character you are stalking. The only way to be discovered as a stalker is by being stalked by another stalker.
 [^3]:Generally, characters with the highest points in authority become leaders of their groups. Characters with high authority levels hardly become friendly towards other characters with high authority levels.
 [^4]:To be more exact: a character receives +0.25x bond points for each point they have in this skill.
+
+## Ultimate High School _N_ 
+
+Rather than Packages, in here we will stick to the good old Occupations, in this case, an specific talent for what your character is known for. 
