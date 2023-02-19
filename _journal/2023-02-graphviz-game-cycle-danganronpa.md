@@ -10,7 +10,7 @@ foam_template:
 
 # Prototype of a Game Cycle for a Danganronpa-themed TTRPG
 
-{% graphviz Test %}
+{% graphviz G %}
 digraph trial {
     rankdir=TB;
     node [shape=rectangle]
@@ -135,7 +135,6 @@ digraph trial {
     r2 -> c3
     c3 -> c4
 }
-
 {% endgraphviz %}
 
 
