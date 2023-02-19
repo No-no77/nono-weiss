@@ -14,7 +14,7 @@ foam_template:
 digraph trial {
     rankdir=TB;
     node [shape=rectangle]
-
+    bgcolor= "#eee8d5"
     // Daytime block
     subgraph cluster_daytime {
         label="Daily Life Block";
