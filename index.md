@@ -51,8 +51,8 @@ J-POP
   - SUBCULTURES
   - GATEKEEPING, OR HOW TO SAVE J-POP
   - AXIOMS OF THE WOTA
-  - [J-POP UNIQUE MERCH](_journal/J-Pop%20Unique%20Merch.md)
-  - [COMPREHENSIVE TIMELINE OF NOGIZAKA46 MEGURI SALES](_journal/Comprehensive%20Timeline%20of%20Nogizaka46%20Meguri%20Sales.md)
+  - [J-POP UNIQUE MERCH](_journal/j-pop-unique-merch.md)
+  - [COMPREHENSIVE TIMELINE OF NOGIZAKA46 MEGURI SALES](_journal/comprehensive-timeline-of-nogizaka-meguri-sales.md)
   
 **WRITING**
 
@@ -72,8 +72,8 @@ CURATION
 
 **SPIRITUALISM**
 
-[SPIRITISM](_journal/Spiritism.md)
-[THE PATH OF THE FALUN GONG](_journal/The%20Path%20of%20the%20Falun%20Dafa.md)
+[SPIRITISM](_journal/spiritism.md)
+[THE PATH OF THE FALUN GONG](_journal/the-path-of-the-falun-dafa.md)
 
 HERMETICISM
 
@@ -86,13 +86,13 @@ NEOPENTECOSTALISM
 **RECIPES**
 
 ANA
-  - [CHICKEN BREAST SANDWICH](_journal/Chicken%20Breast%20Sandwich.md)
+  - [CHICKEN BREAST SANDWICH](_journal/chicken-breast-sandwich.md)
   - GIMBAP
-  - [CHICKEN NOODLE SOUP](_journal/Chicken%20Noodle%20Soup.md)
-  - [BANANA PANCAKES](_journal/Banana%20Pancakes.md)
+  - [CHICKEN NOODLE SOUP](_journal/chicken-noodle-soup.md)
+  - [BANANA PANCAKES](_journal/banana-pancakes.md)
 
 VEGAN
-  - [VEGAN SUSHI](_journal/Vegan%20Sushi.md)
+  - [VEGAN SUSHI](__journal/vegan-sushi.md)
 
 **PARENTHOOD**
 

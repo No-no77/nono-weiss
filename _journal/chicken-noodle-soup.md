@@ -12,7 +12,7 @@ tags: Recipes
 - 8 pieces of spaghetti broken in 1/2 
 - 2 cups of chicken broth
 - 1/4 cup carrots 7 calories
-- 2 tablespoons of cooked chicken breast chopped. You should cook it in the same way as described in [[Chicken Breast Sandwich]].
+- 2 tablespoons of cooked chicken breast chopped. You should cook it in the same way as described in [[chicken-breast-sandwich]].
 
 ## Preparation
 

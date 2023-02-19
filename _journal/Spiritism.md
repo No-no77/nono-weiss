@@ -39,6 +39,6 @@ tags: Spirituality
 
 ##### Our Home
 
-### Psychic Abilities
+## Psychic Abilities
 
-### Generational Impact of Karma
+## Generational Impact of Karma
