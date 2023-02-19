@@ -5,7 +5,7 @@ date: 2023-02-19
 tags: Recipes
 ---
 
-#  2023-02: Chicken Noodle Soup
+#  Chicken Noodle Soup
 
 
 
@@ -14,7 +14,7 @@ tags: Recipes
 - 8 pieces of spaghetti broken in 1/2 
 - 2 cups of chicken broth
 - 1/4 cup carrots 7 calories
-- 2 tbsp cooke chicken breast chopped
+- 2 tablespoons of cooked chicken breast chopped. You should cook it in the same way as shown in [[Chicken Breast Sandwich]].
 
 ## Preparation
 
@@ -23,6 +23,6 @@ tags: Recipes
 3. cook until the spaghetti is done and the carrots have softened. (~15 min)
 4. Add salt to taste
 
-## Calorie counter
+## Calories 
 
-Calories: ~61 calories
+~61 calories

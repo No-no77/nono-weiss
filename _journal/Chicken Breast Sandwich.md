@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# 2023-02 Chicken Breast Sandwich
+# Chicken Breast Sandwich
 
 ## Ingredients
 
