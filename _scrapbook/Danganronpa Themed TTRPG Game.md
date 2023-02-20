@@ -1,5 +1,5 @@
 ---
-published: true
+published: draft
 author: 
 subtitle: 
 date: 2023-02-19
@@ -67,10 +67,6 @@ Forensic Analysis is the application of scientific methods and techniques to the
 
 Stalking Skills refer to the ability to observe and monitor a person, often with the goal of gathering information. In Deceive RGP, a character with strong Surveillance Skills would be able to gather information by observing the character being stalked, monitoring their movements and interactions, and identifying patterns of behavior.
 
-#### Contextualization
-
-Contextualization is the ability to interpret information and evidence within its larger social, cultural, and historical context. In Deceive RGP, a character with strong contextualization skills would be able to identify and interpret the underlying social and cultural factors that may have contributed to the crime, as well as recognize how the crime fits within a larger historical narrative.
-
 #### Metacognition
 
 Metacognition is the ability to reflect on one's own thinking processes and to consciously regulate and direct one's own learning and problem-solving strategies. In Deceive RGP, a character with strong metacognitive skills would be able to analyze and improve their own thinking and problem-solving abilities, enabling them to become more effective investigators and problem-solvers.
@@ -89,18 +85,9 @@ Intimidation is the ability to instill fear or apprehension in others through fo
 
 Reassurance is the ability to comfort and encourage others, providing emotional support and easing their anxieties or fears. In Deceive RGP, a character with strong reassurance skills would be able to build relationships with other characters and gain their trust, making it more likely that they will cooperate and provide valuable information.
 
-#### Courage
-
-Courage is the ability to confront fear, danger, or uncertainty and to take action in spite of the potential risks or consequences. In Deceive RGP, a character with high levels of courage would be able to face dangerous situations head-on and to make difficult decisions even in the face of uncertainty or ambiguity.
-
 #### Self-Control
 
 Self control is the ability to regulate one's thoughts, emotions, and behaviors in order to achieve long-term goals or to maintain composure in stressful or challenging situations. In Deceive RGP, a character with high levels of self control would be able to maintain a clear and focused mind even in the midst of chaos or danger, enabling them to make rational and effective decisions.
-
-
-#### Morale
-
-Morale is a measure of a character's mental and emotional resilience in the face of adversity. In Deceive RGP, a character's morale may be affected by a variety of factors, such as the difficulty of the challenges they face, the level of danger and uncertainty in their environment, and the quality of their relationships with other characters.
 
 #### Despair Absorption
 
@@ -116,19 +103,11 @@ Authority is the ability to project a sense of confidence, leadership, and contr
 
 ### Cohabitational Abilities
 
-#### Synergy
-
-Synergy is the ability to work effectively with others and to create a sense of harmony and cooperation within a group. In Deceive RGP, a character with synergy would be able to use their interpersonal skills to build strong relationships with other characters and to create a sense of unity and teamwork within the group.
-
-#### Jack of all Trades
-
-Jack of all trades is the ability to be competent in a wide range of skills and knowledge, without necessarily having a particular expertise in any one area. In Deceive RGP, a character with this ability would be able to adapt to a variety of situations and challenges, and have a general understanding of a broad range of subjects.
-
 #### Collaboration
 
 Collaboration is the ability to work effectively with others towards a shared goal. In Deceive RGP, a character with this ability would be able to contribute to group tasks and investigations by building strong working relationships with other characters, communicating effectively, and using their unique strengths to complement those of their allies.
 
-Characters with points in this can spend *n* amount of the points they have in this skill to the actions of other characters.
+Characters with points in this can burn *n* amount of the points they have in this skill to the actions of other characters if they are actively helping them.
 
 #### Friendly
 
@@ -137,7 +116,6 @@ Being friendly is the ability to establish positive relationships with others an
 #### Conflict Resolution
 
 Conflict resolution is the ability to manage and resolve conflicts between individuals or groups. In Deceive RGP, a character with the ability to resolve conflicts could play a vital role in maintaining order and preventing further harm in the wake of a tragedy.
-
 
 ## General Abilities
 
@@ -284,10 +262,6 @@ Keen perceptions allow you to spot signs of potential danger to yourself and oth
 Players never know the Difficulty Numbers for Sense Trouble before deciding how many points to spend, even in games where GMs generously inform the players of other Difficulty Numbers. Players must blindly choose how much to spend.
 
 When more than one player is able to make a Sense Trouble test, the group decides which of them makes the attempt. Only one attempt per source of trouble occurs, conducted by the chosen PC.
-
-#### Shrink
-
-You can provide comfort, perspective and solace to the mentally troubled. You may be a therapist or counselor, a priest or pastor, or just a empathetic and intuitive individual. You can restore panicked characters to a state of calm, and treat any long-term mental illnesses they accrue in the course of their investigations.
 
 #### Specific Weapon Use
 
