@@ -35,6 +35,8 @@ These Talents provide a unique twist on the traditional RPG mechanic of abilitie
 
 ### Investigative Abilities
 
+Investigative abilities are treated differently than traditional skills, as they are considered essential to the game's mechanics and are always assumed to succeed when applied to the correct situation. This means that players do not need to roll dice to use their investigative abilities; instead, they simply inform the game master of their character's action, and the game master provides the relevant information. The goal of this approach is to allow players to focus on their characters' investigative abilities and the story's unfolding events, rather than being bogged down by failed rolls or uncertainty about what information they may be missing.
+
 #### Analytical Abilities
 
 ##### Bayesian Probability
@@ -139,7 +141,11 @@ Being friendly is the ability to establish positive relationships with others an
 
 Conflict resolution is the ability to manage and resolve conflicts between individuals or groups. In Deceive RGP, a character with the ability to resolve conflicts could play a vital role in maintaining order and preventing further harm in the wake of a tragedy.
 
-#### General Abilities
+### General Abilities
+
+General abilities in Deceive RPG are a set of skills that are used in a variety of non-investigative situations in the game. These abilities cover a broad range of skills, such as combat, athletics, social interactions, and technical skills. Unlike investigative abilities, players in Deceive RPG are required to roll dice when using general abilities, as their success is not assumed. Depending on the game, different general abilities may be more or less important to a character's success, but overall they are designed to add richness and depth to a character's abilities beyond their investigative skills.
+
+In Deceive RPG, characters have an initial pool of points to allocate across their general abilities, and can use these points to improve their chances of success when performing actions related to those abilities by burning a point. As characters die and the game progresses, every survivor will receive additional points to allocate towards their general abilities, which can make them more effective in non-investigative situations.
 
 ##### Athletics
 
@@ -318,6 +324,27 @@ You’re good at noticing other people trying to be unobtrusive, just as you’r
 -   escape from someone following you
 -   pass unnoticed despite being the sort of person who would normally attract attention
 
+
+
+#### Point Pool
+
+Lets suppose that the game has initially started with 16 character. The base point pool for character creation is 65. When a character dies, their 65 points are distributed to the survivors.
+
+16|0 deaths   |0
+15|1 deaths   |4
+14|2 deaths   |4
+13|3 deaths   |5
+12|4 deaths   |5
+11|5 deaths   |5
+10|6 deaths   |6
+09|7 deaths   |7
+08|8 deaths   |8
+07|9 deaths   |9
+06|10 deaths  |10
+05|11 deaths  |13
+04|12 deaths  |16
+03|13 deaths  |21
+02|14 deaths  |End Game
 
 ## Game Cycle
 
