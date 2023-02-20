@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/0695ed.md",
+                "file": "_wiki/Expectation and Unpredictability.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/0695ed.md",
+                "file": "_wiki/Expectation and Unpredictability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/0695ed.md",
+                "file": "_wiki/Expectation and Unpredictability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/0695ed.md"
+                "file": "_wiki/Expectation and Unpredictability.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "c85ab03da5f32eb2",
   "lastOpenFiles": [
+    "ring.md",
+    "_wiki/Expectation and Unpredictability.md",
     "_daily/2023-02-20.md",
     "_journal/spiritism.md",
-    "ring.md",
     "readme.md",
     "_journal/Spiritism.md",
     "_journal/The Path of the Falun Dafa.md",
     "_journal/Banana Pancakes.md",
     "_journal/Vegan Sushi.md",
-    "_journal/Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md",
-    "_journal/J-Pop Unique Merch.md"
+    "_journal/Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md"
   ]
 }
