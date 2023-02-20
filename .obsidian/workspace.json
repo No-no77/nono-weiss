@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0695ed.md",
+                "file": "_wiki/0695ed.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0695ed.md",
+                "file": "_wiki/0695ed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0695ed.md",
+                "file": "_wiki/0695ed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0695ed.md"
+                "file": "_wiki/0695ed.md"
               }
             }
           },
@@ -156,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c85ab03da5f32eb2",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_daily/2023-02-20.md",
     "_journal/spiritism.md",
