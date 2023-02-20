@@ -57,7 +57,7 @@ digraph trial {
     a2 -> n4;
     
     a0 [label="A = Action", style=filled, fillcolor=white]
-    a1 [label="Given n ammount of days have passed", style=filled, fillcolor=white]
+    a1 [label="Given n amount of days have passed", style=filled, fillcolor=white]
     a2 [label="Start an Event", style=filled, fillcolor=white]
     a3 [label="An action block \nmight take 1 to 2 hours\n to be completed", style=filled, fillcolor=white]
     a4 [label="Physical Challenge", style=filled, fillcolor=white]
