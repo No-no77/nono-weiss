@@ -330,6 +330,7 @@ You’re good at noticing other people trying to be unobtrusive, just as you’r
 
 Lets suppose that the game has initially started with 16 character. The base point pool for character creation is 65. When a character dies, their 65 points are distributed to the survivors.
 
+N of Character Alive|N of deaths   | N of Points Distributed
 16|0 deaths   |0
 15|1 deaths   |4
 14|2 deaths   |4
