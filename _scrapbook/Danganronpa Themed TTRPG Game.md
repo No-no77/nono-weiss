@@ -328,7 +328,21 @@ You’re good at noticing other people trying to be unobtrusive, just as you’r
 
 #### Point Pool
 
-Lets suppose that the game has initially started with 16 character. The base point pool for character creation is 65. When a character dies, their 65 points are distributed to the survivors.
+Lets follow the following scenario: At the beginning of a game, there are 16 characters with 65 points each, for a total of 1040 points (16 x 65 = 1040). As each character dies, their 65 points are redistributed among the remaining characters.
+
+For example, when the 16th character dies, their 65 points are redistributed among the remaining 15 characters. Each character would receive an additional 65/15 = 4.33 points, in this case 4 points as we will always be rounding the numbers to the smallest possible number.
+
+This process continues as more characters die, with the points being redistributed equally among the remaining characters. Therefore, the function that describes the redistribution of points as characters die is:
+
+_Points distributed = (Total points - (65 x Number of deaths)) / Number of survivors_
+
+Where:
+
+Total points = 1040 (the starting total number of points)
+Number of deaths = the number of characters who have died
+Number of survivors = the current number of characters remaining in the game
+
+For a game with 16 characters (ideal party size) we would have the following distribution.
 
 N of Character Alive|N of deaths   | N of Points Distributed
 16|0 deaths   |0
@@ -476,7 +490,22 @@ digraph trial {
 }
 {% endgraphviz %}
 
-##
+## Killing Game Rules
+
+1. Once you're inside, you will not be allowed to leave the area under any circumstances.
+2. "Night-time" is from 10:00 p.m. to 7:00 a.m. During nighttime, the dormitory school building is completely locked down. If you're out and about after 10:00 p.m., you will be greeted by a deadly assault from one of the headmaster robots.
+3. Violence against the headmaster is strictly prohibited, as is the destruction of surveillance cameras and security sensors.
+4. Anyone who kills a fellow student will graduate, unless they are caught. If they are caught, they will be executed.
+5. The school will continue to operate as long as at least two students are still alive.
+6. Attempting to "graduate" without actually doing so through the designated method is strictly prohibited.
+7. Once a murder has been discovered by more than three people, a class trial will be held to determine the identity of the killer.
+8. During the class trial, everyone must participate, including the killer.
+9. The outcome of the class trial will be determined by majority vote.
+10. If someone is killed by a trap, the one who set the trap will be held responsible, even if the trap in question was an accident.
+11. The use of the school's facilities and equipment is free to all students. However, any damage to the facilities or equipment will be billed to the student responsible.
+12. Once a murder has been solved and the killer has been punished, the class trial will come to an end, and the surviving students will be allowed to return to their normal activities.
+13. Any violations of these rules will result in immediate punishment, which will be determined by the headmaster.
+14. The headmaster alone has the authority to modify the rules as necessary.
 
 ## Footnotes
 
