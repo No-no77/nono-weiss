@@ -9,6 +9,14 @@ tags:
 
 # Danganronpa Themed TTRPG Game
 
+## Character Concept
+
+### Ultimate High School _N_ 
+
+Rather than Packages, in Deceive RPG we stick to the old Occupations, in this case, an specific talent for what your character is known for. Due to the extreme variety of different characters someone could put in such scenarios, the idea of making an exhaustive list of occupations is unreal, for this reason we encourage GM and player to discuss and decide their occupational bonus according to their character concept. 
+
+What your occupational bonus does is basically giving you a "buy one - take two" bonus in each ability related to your character.
+
 ## Abilities
 
 ## Investigative Abilities
@@ -286,14 +294,9 @@ You’re good at noticing other people trying to be unobtrusive, just as you’r
 -   escape from someone following you
 -   pass unnoticed despite being the sort of person who would normally attract attention
 
-
 ### Footnotes
 
 [^1]: The amount of information you recall about a topic is directly proportional to how much it relates to your character background for balancing reasons. An Ultimate Art Student might have an encyclopedic knowledge of Art History, not that much knowledge of Calculus, and a fair knowledge of geometry.
 [^2]: Stalking takes an action during a block of time, therefore you will not be able to stalk more than a character during it. Still, you will be able to interchangeably choose the character you will be stalking from the list of characters you have chosen to stalk. You can also freely change the character you are stalking. The only way to be discovered as a stalker is by being stalked by another stalker.
 [^3]:Generally, characters with the highest points in authority become leaders of their groups. Characters with high authority levels hardly become friendly towards other characters with high authority levels.
 [^4]:To be more exact: a character receives +0.25x bond points for each point they have in this skill.
-
-## Ultimate High School _N_ 
-
-Rather than Packages, in here we will stick to the good old Occupations, in this case, an specific talent for what your character is known for. 
