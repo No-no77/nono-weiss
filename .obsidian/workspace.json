@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/spiritism.md",
+                "file": "0695ed.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/spiritism.md",
+                "file": "0695ed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/spiritism.md",
+                "file": "0695ed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/spiritism.md"
+                "file": "0695ed.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "c85ab03da5f32eb2",
   "lastOpenFiles": [
+    "_daily/2023-02-20.md",
+    "_journal/spiritism.md",
     "ring.md",
     "readme.md",
     "_journal/Spiritism.md",
@@ -165,8 +167,6 @@
     "_journal/Banana Pancakes.md",
     "_journal/Vegan Sushi.md",
     "_journal/Prototype of a Game Cycle for a Danganronpa-themed TTRPG.md",
-    "_journal/J-Pop Unique Merch.md",
-    "_journal/Comprehensive Timeline of Nogizaka46 Meguri Sales.md",
-    "_journal/Chicken Breast Sandwich.md"
+    "_journal/J-Pop Unique Merch.md"
   ]
 }
