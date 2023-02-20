@@ -4,7 +4,7 @@ author:
 subtitle: A Danganronpa-Inspired TTRPG game powered by the GUMSHOE system
 date: 2023-02-19
 source: 
-tags: 
+tags: TTRPG
 ---
 
 # Deceive RPG
@@ -15,7 +15,7 @@ ver: 0.1 (Beta Playtest)
 
 In the Deceive RPG game, character creation revolves around choosing an occupation based on a specific talent or skill set, rather than pre-defined packages. To accommodate the wide range of possible character concepts, the game encourages players and the game master to collaboratively determine the character's occupational bonus, which grants a "buy one - take two" bonus in related abilities. This approach allows for greater flexibility and customization in character creation.
 
-### Ultimate High School Stuents 
+### Ultimate High School Students 
 
 In Deceive RPG game, each player creates a character who is an Ultimate High School student with a unique talent or skill. The specific talent or skill is left up to the player to determine, and can range from traditional academic pursuits like Ultimate Literature or Ultimate Mathematics, to more unconventional talents like Ultimate Cosplayer or Ultimate Pop Idol.
 

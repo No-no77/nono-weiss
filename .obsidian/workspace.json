@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Expectation and Unpredictability.md",
+                "file": "_scrapbook/Deceive RPG.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Expectation and Unpredictability.md",
+                "file": "_scrapbook/Deceive RPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Expectation and Unpredictability.md",
+                "file": "_scrapbook/Deceive RPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Expectation and Unpredictability.md"
+                "file": "_scrapbook/Deceive RPG.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "c85ab03da5f32eb2",
   "lastOpenFiles": [
-    "ring.md",
     "_wiki/Expectation and Unpredictability.md",
+    "ring.md",
     "_daily/2023-02-20.md",
     "_journal/spiritism.md",
     "readme.md",
